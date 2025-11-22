@@ -6,3 +6,4 @@ This project demonstrates a complete performance analysis of the Women's World C
 2️⃣ To design an interactive analytical experience, facilitating intuitive exploration of contextual performance metrics,  enabling cross-filtering, and supporting evidence-based performance interpretation.
 3️⃣To apply data-driven methodology to contextualize on-field performance, optimising raw scores and match logs into actionable intelligence, producing real-time decision-making in sports analytics.
 ## Datasets
+- <a href = "https://github.com/acd222/ICC-Women-s-World-Cup-2025/blob/main/match_records.csv">Match_Records</a>
