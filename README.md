@@ -14,4 +14,13 @@ This project provides a comprehensive performance analysis of the Women's World 
 - Execution of comparative analytics to uncover Trend charts for performance progression, Venue-wise scoring patterns and match outcomes
 - Transformation of analytical findings into meaningful performance intelligence, showcasing player impact index, benchmarks and team evaluation.
 - Visualisation and Reporting - <a href = "https://github.com/acd222/ICC-Women-s-World-Cup-2025/blob/main/Women's%20World%20Cup%202025%20Analysis%20Dashboard.pbix">View Dashboard</a>
-## Dashboard
+## Dashboards
+<img width="727" height="480" alt="Match_Records" src="https://github.com/user-attachments/assets/c3af534d-f371-4b12-adcb-1e1e5f48757c" />
+<img width="744" height="478" alt="Batting_Stats" src="https://github.com/user-attachments/assets/ebc9c576-9d1c-4a00-bac3-9b90a1992820" />
+<img width="750" height="490" alt="Bowling_Stats" src="https://github.com/user-attachments/assets/b5d2e18d-4402-44a6-835a-c2780c4d8166" />
+## Project Insights Summary
+- Laura Wolvaardt emerged as the tournament's standout batter, scoring 571 runs with remarkable consistency.
+- India recorded the highest total runs contribution, reflecting a more balanced batting lineup.
+- Spin bowlers dominated wicket-taking, especially in Indian venues (Deepti Sharma with 22 Wickets).
+- Match completions were highest in India, whereas Sri Lanka experienced multiple disruptions.
+- Venue patterns discovered Mumbai as the most batting-friendly, while Indore favored second-innings success.
