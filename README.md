@@ -10,4 +10,4 @@ This project provides a comprehensive performance analysis of the Women's World 
 - <a href = "https://github.com/acd222/ICC-Women-s-World-Cup-2025/blob/main/batting_stats.csv">Batting Stats</a>
 - <a href = "https://github.com/acd222/ICC-Women-s-World-Cup-2025/blob/main/bowling_stats.csv">Bowling Stats</a>
 ## Dashboard Link
-- <a href = "https://github.com/acd222/ICC-Women-s-World-Cup 2025/blob/main/Women's%20World%20Cup%202025%20Analysis%20Dashboard.pbix">View Dashboard</a>
+- <a href = "https://github.com/acd222/ICC-Women-s-World-Cup-2025/blob/main/Women's%20World%20Cup%202025%20Analysis%20Dashboard.pbix">View Dashboard</a>
