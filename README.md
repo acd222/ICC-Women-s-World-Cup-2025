@@ -20,7 +20,7 @@ This project provides a comprehensive performance analysis of the Women's World 
 <p align="center">
 <img width="744" height="478" alt="Batting_Stats" src="https://github.com/user-attachments/assets/ebc9c576-9d1c-4a00-bac3-9b90a1992820" /></p>
 <p align="center">
-<img width="750" height="490" alt="Bowling_Stats" src="https://github.com/user-attachments/assets/b5d2e18d-4402-44a6-835a-c2780c4d8166" /></p>
+<img width="751" height="490" alt="Bowling_Stats" src="https://github.com/user-attachments/assets/eee41258-5c4f-48a0-b36b-f2a4a56e80cf" /></p>
 
 ## Project Insights Summary
 - Laura Wolvaardt emerged as the tournament's standout batter, scoring 571 runs with remarkable consistency.
