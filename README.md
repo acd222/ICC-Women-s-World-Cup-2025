@@ -9,5 +9,9 @@ This project provides a comprehensive performance analysis of the Women's World 
 - <a href = "https://github.com/acd222/ICC-Women-s-World-Cup-2025/blob/main/match_records.csv">Match Records</a>
 - <a href = "https://github.com/acd222/ICC-Women-s-World-Cup-2025/blob/main/batting_stats.csv">Batting Stats</a>
 - <a href = "https://github.com/acd222/ICC-Women-s-World-Cup-2025/blob/main/bowling_stats.csv">Bowling Stats</a>
-## Dashboard Link
-- <a href = "https://github.com/acd222/ICC-Women-s-World-Cup-2025/blob/main/Women's%20World%20Cup%202025%20Analysis%20Dashboard.pbix">View Dashboard</a>
+## Process 
+- Collection of raw-level datasets through cleaning, formatting and approaching real-time analysis to investigate top Run Scorers, boundary charts and country contribution visual mapping
+- Execution of comparative analytics to uncover Trend charts for performance progression, Venue-wise scoring patterns and match outcomes
+- Transformation of analytical findings into meaningful performance intelligence, showcasing player impact index, benchmarks and team evaluation.
+- Visualisation and Reporting - <a href = "https://github.com/acd222/ICC-Women-s-World-Cup-2025/blob/main/Women's%20World%20Cup%202025%20Analysis%20Dashboard.pbix">View Dashboard</a>
+## Dashboard
