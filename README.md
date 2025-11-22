@@ -6,4 +6,3 @@ This project demonstrates a complete performance analysis of the Women's World C
 2️⃣ To design an interactive analytical experience, facilitating intuitive exploration of contextual performance metrics,  enabling cross-filtering, and supporting evidence-based performance interpretation.
 3️⃣To apply data-driven methodology to contextualize on-field performance, optimising raw scores and match logs into actionable intelligence, producing real-time decision-making in sports analytics.
 ## Datasets
-
